@@ -1,0 +1,10 @@
+#include <stdio.h>
+
+int main(){
+    while (1){
+        printf("Hello world\n");
+    }
+    
+    // Este código nunca se alcanza, ya que el bucle es infinito.
+    // return 0; 
+}
